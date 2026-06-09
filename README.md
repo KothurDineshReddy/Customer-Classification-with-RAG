@@ -1,4 +1,4 @@
-# SGWS Customer Classification Replica
+# Customer Classification Replica
 
 A working replica of an internal batch classification tool used at a major
 beverage distributor. Analysts upload a CSV of customer accounts; the system
