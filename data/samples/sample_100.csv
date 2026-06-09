@@ -1,0 +1,101 @@
+customer_id,customer_name,address,city,state,zip
+CUST000001,Sacramento Diner,"6873 Peach Way, Ste A",Sacramento,CA,95844
+CUST000002,Stater Bros.,8949 Industrial Ct,New York,NY,10029
+CUST000003,Marketview Liquor,"9675 Sunset Ave, #101",Jacksonville,FL,32232
+CUST000004,Steak 'n Shake,"1254 Elm St, Unit B",Los Angeles,CA,90001
+CUST000005,Miller's Tavern,5743 Center Ave,Nashville,TN,37220
+CUST000006,Neighborhood Bar & Grill,5375 Peach Ct,Grand Rapids,MI,49503
+CUST000007,Choice Hotels Clarion Las Vegas,6996 Highland Rd,Las Vegas,NV,89132
+CUST000008,Wegmans,7172 Oak Dr,Honolulu,HI,96850
+CUST000009,Sam's Grill,"7090 Chestnut Dr, #101",Pittsburgh,PA,15257
+CUST000010,Colorado Springs Bistro,"5363 Forest St, Suite 100",Colorado Springs,CO,80916
+CUST000011,HEB,"5119 Pine Ave, Suite 100",Denver,CO,80238
+CUST000012,Cheers Bar & Grill,9286 Maple Pkwy,Orlando,FL,32872
+CUST000013,BevMo,8437 Maple Ln,Tulsa,OK,74144
+CUST000014,Papa Ferreira's,"1810 Valley Rd, #101",Austin,TX,78763
+CUST000015,Down the Hatch,2671 Highland Way,Queens,NY,11343
+CUST000016,ABC Fine Wine & Spirits,"4466 Washington Ln, #101",Virginia Beach,VA,23444
+CUST000017,Panera Bread,8824 Spring Ave,Omaha,NE,68110
+CUST000018,Walgreens,"2828 Chestnut Dr, Suite 100",Philadelphia,PA,19197
+CUST000019,Pilot Flying J #8388,"4282 Bay Way, Suite 200",Raleigh,NC,27614
+CUST000020,Casa Park,9130 Washington Way,Portland,OR,97252
+CUST000021,Pete's Seafood,"1979 Valley Ave, #101",Springfield,IL,62728
+CUST000022,Dave & Buster's,"4470 Bay Rd, #101",Providence,RI,02914
+CUST000023,Sam's Club,1865 Maple Rd,Tulsa,OK,74178
+CUST000024,Olive Garden,6875 Park St,Brooklyn,NY,11230
+CUST000025,Esposito's BBQ,2842 Spring Blvd,Charleston,SC,29455
+CUST000026,Corner Pocket Billiards & Bar,7915 Commerce Ave,Lexington,KY,40583
+CUST000027,Mike's Grill,"9874 Commerce Ct, Ste A",Reno,NV,89540
+CUST000028,Olive Garden,"1151 Commerce Pkwy, Unit B",Baltimore,MD,21214
+CUST000029,Ferreira's Pub,"5929 Union Blvd, #101",Grand Rapids,MI,49526
+CUST000030,Martinez's Pub,"1564 Meadow Ave, Suite 200",Las Vegas,NV,89129
+CUST000031,Waffle House,"772 Commerce Blvd, Suite 200",New Orleans,LA,70174
+CUST000032,IHOP,5577 Washington Pl,Eugene,OR,97431
+CUST000033,Bill's Bar & Grill,4491 Pine Ave,Colorado Springs,CO,80981
+CUST000034,The Tap Room,"2626 Washington Pl, Suite 200",Brooklyn,NY,11209
+CUST000035,Texas Roadhouse,2938 Sunset Blvd,Honolulu,HI,96840
+CUST000036,Mama Jones's,3487 Hill Pl,Las Vegas,NV,89199
+CUST000037,Raley's,"9159 Broad Blvd, Suite 100",Reno,NV,89555
+CUST000038,Yard House,895 Spring Rd,Omaha,NE,68187
+CUST000039,Choice Hotels Clarion Oklahoma City,"8969 Meadow Pl, Unit B",Oklahoma City,OK,73101
+CUST000040,The Ferreira House,499 Garden Pkwy,Baton Rouge,LA,70807
+CUST000041,Omni Dallas Hotel,"2365 Lake Blvd, Suite 100",Cincinnati,OH,45235
+CUST000042,Hy-Vee,6671 Sunset Pkwy,Baton Rouge,LA,70829
+CUST000043,Dave's Bar & Grill,"7281 Market Dr, Suite 200",Madison,WI,53763
+CUST000044,IHOP,"6854 Industrial Pl, Suite 100",Milwaukee,WI,53282
+CUST000045,Total Wine & More,1272 Cherry Way,Colorado Springs,CO,80965
+CUST000046,Total Spirits Spokane,"5008 Bay Blvd, Unit B",Spokane,WA,99276
+CUST000047,Costco Wholesale,8520 Valley Blvd,Houston,TX,77032
+CUST000048,DeLuca's Pub,5801 Valley Pl,Virginia Beach,VA,23469
+CUST000049,Smart & Final,"1581 Union Ave, Suite 100",San Francisco,CA,94194
+CUST000050,Houston Bottle Shop,"1443 Meadow Dr, Ste A",Houston,TX,77055
+CUST000051,Outback Steakhouse,"5432 Meadow Blvd, Unit B",Baton Rouge,LA,70827
+CUST000052,Choice Hotels Econo Lodge Phoenix,2034 Center Rd,Phoenix,AZ,85048
+CUST000053,7-Eleven Store #4110,8756 Meadow Pkwy,Burlington,VT,05403
+CUST000054,Trader Joe's,"4366 Broad Blvd, Suite 100",Little Rock,AR,72218
+CUST000055,Martinez's Pub,"7413 River Pl, Suite 200",Sioux Falls,SD,57162
+CUST000056,Residence Inn by Marriott Richmond,"9447 Valley Dr, Suite 100",Richmond,VA,23213
+CUST000057,Mama Patel's,"2337 Pine Pl, Suite 200",Buffalo,NY,14273
+CUST000058,The Cheesecake Factory,"8341 Harbor Pl, Suite 200",Las Vegas,NV,89100
+CUST000059,Stop & Shop,"7465 Harbor Rd, #101",Phoenix,AZ,85051
+CUST000060,The Draft House,"9224 Main Rd, #101",Columbus,OH,43225
+CUST000061,The Albuquerque Grille,"7462 Walnut Dr, Suite 200",Albuquerque,NM,87167
+CUST000062,Punch Bowl Social,"6476 Forest Ln, Suite 200",New York,NY,10079
+CUST000063,Wilmington Wine & Spirits,"4157 Center St, Ste A",Wilmington,DE,19892
+CUST000064,The Bottle Shop,3018 Pine Pkwy,Miami,FL,33144
+CUST000065,Bob Evans,6836 Chestnut Rd,Minneapolis,MN,55459
+CUST000066,The Draft House,"4537 Cherry Ave, Ste A",Minneapolis,MN,55408
+CUST000067,Cincinnati Tap Room,"8409 River Ave, Ste A",Cincinnati,OH,45281
+CUST000068,Binny's Beverage Depot,3522 Walnut Dr,Nashville,TN,37242
+CUST000069,Dave & Buster's,"1326 Walnut Way, Unit B",St. Paul,MN,55165
+CUST000070,Golden Corral,"914 River Rd, #101",Burlington,VT,05434
+CUST000071,Miller's Tavern,"8023 Union Pkwy, Suite 200",Cincinnati,OH,45291
+CUST000072,Nguyen Family Restaurant,6696 Commerce Ln,Colorado Springs,CO,80934
+CUST000073,Park's Diner,"2527 Union Ct, #101",Savannah,GA,31420
+CUST000074,Philadelphia Bottle Shop,6016 Division Ln,Philadelphia,PA,19114
+CUST000075,JW Marriott Los Angeles,5105 Pine Ave,Spokane,WA,99250
+CUST000076,Blu by Radisson Charlotte,3159 Maple St,Charlotte,NC,28296
+CUST000077,Texas Roadhouse,"668 Peach Pl, Unit B",Denver,CO,80243
+CUST000078,Mama Garcia's,"6648 Market Ct, Unit B",Nashville,TN,37248
+CUST000079,Kim's Tavern,"9601 Valley Dr, Unit B",Tampa,FL,33691
+CUST000080,Doubletree by Hilton Seattle,8231 Park Dr,Minneapolis,MN,55405
+CUST000081,Total Wine & More,"7970 Commerce Ln, Suite 100",Brooklyn,NY,11225
+CUST000082,Yard House,"2594 Oak St, Ste A",Baltimore,MD,21218
+CUST000083,HEB,9352 Valley Rd,Sioux Falls,SD,57110
+CUST000084,Raising Cane's,"5070 Main St, #101",Albuquerque,NM,87107
+CUST000085,Jersey City Taproom,"1591 Highland St, Unit B",Jersey City,NJ,07381
+CUST000086,Rite Aid,"4675 Highland Ct, Ste A",Tucson,AZ,85742
+CUST000087,Super 8 by Wyndham St. Paul,4121 Cedar Pkwy,St. Paul,MN,55144
+CUST000088,Corner Pocket Billiards & Bar,9060 Garden Pl,Virginia Beach,VA,23491
+CUST000089,The Cheesecake Factory,1248 Church Pkwy,Omaha,NE,68132
+CUST000090,Dave & Buster's,"2574 Cedar Dr, Ste A",Jacksonville,FL,32205
+CUST000091,Rite Aid,"1594 Cherry Ct, #101",San Diego,CA,92147
+CUST000092,The Kim House,"643 Meadow Blvd, Ste A",Austin,TX,78797
+CUST000093,Kroger,"8693 Church Ave, Suite 100",Oklahoma City,OK,73141
+CUST000094,Aldi,"660 Valley St, Suite 100",Houston,TX,77040
+CUST000095,Sheetz #6328,"2019 Division Ave, Ste A",Tucson,AZ,85731
+CUST000096,Marketview Liquor,"3465 Industrial Way, #101",Anchorage,AK,99550
+CUST000097,Winn-Dixie,"1815 Lake Ct, #101",Wilmington,DE,19871
+CUST000098,Neighborhood Bar & Grill,"3376 Bay Ln, #101",Wilmington,DE,19841
+CUST000099,Choice Hotels Clarion Austin,"2170 Pine St, Suite 100",Austin,TX,78783
+CUST000100,Down the Hatch,"4567 Commerce Pl, #101",Omaha,NE,68101
